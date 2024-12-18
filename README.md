@@ -6,7 +6,7 @@ I am a student who has a strong passion for research new technologies. I enjoy c
 
 #### Find my Socials
 <p align="left">
-<a href="www.linkedin.com/in/sathindu-dhanushka-de-zoysa-686b43267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathindu-dhanushka-de-zoysa-686b43267" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sathindu-dhanushka-de-zoysa-686b43267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathindu-dhanushka-de-zoysa-686b43267" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sathindu_dhanushka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathindu" height="30" width="40" /></a>
 </p>
 
