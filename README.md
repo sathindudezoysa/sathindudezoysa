@@ -34,8 +34,8 @@ I am a student who has a strong passion for research new technologies. I enjoy c
 ### 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathindudezoysa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sathindudezoysa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathindudezoysa&&theme=tokyonight" alt="sathindudezoysa" /></p>
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathindudezoysa&&theme=tokyonight" alt="sathindudezoysa" /></p> -->
 
 
 <!-- **sathindudezoysa/sathindudezoysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
