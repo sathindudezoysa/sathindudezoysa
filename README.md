@@ -1,6 +1,6 @@
 # ✨ Sathindu Dhanushka 
 
-**`Fellow Researcher (Developer/Creator/Writer)`**
+**`Fellow  Developer and Researcher`**
 
 I am a student who has a strong passion for research new technologies. I enjoy creating innovative solutions using those thechnologies. All my projects are bult from scratch, from having the idea and developing and all the way to solving the problem.
 
@@ -31,9 +31,8 @@ I am a student who has a strong passion for research new technologies. I enjoy c
 
 #
 
-### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathindudezoysa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sathindudezoysa" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathindudezoysa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sathindudezoysa" /></p> -->
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathindudezoysa&&theme=tokyonight" alt="sathindudezoysa" /></p> -->
 
