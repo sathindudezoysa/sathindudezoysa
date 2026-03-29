@@ -33,32 +33,20 @@ Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a st
   </a>
 </p>
 
-<!-- ---
+---
 
 ### 🚀 Projects
 
-#### ☁️ Restroplate: Cloud Native Deployment & CI/CD Automation
-- **Tools**: Azure, GitHub Actions, .NET, C#, Jira
-- Engineered an automated CI/CD pipeline using GitHub Actions to streamline the continuous integration and deployment of the application directly to the Azure cloud.
-- Utilized Jira for issue tracking and agile project management.
+I enjoy tackling complex engineering challenges! From **fault-tolerant distributed systems** and **secure messaging platforms** to **custom compilers** and **cloud-native applications**.
 
-#### 🗄️ SentinelStore: Fault-Tolerant Distributed Storage System
-- **Tools**: Java, Docker, Bash, Apache Zookeeper, Microservice Architecture
-- Designed a distributed storage system that replicates data across multiple nodes ensuring crash recovery and load balancing using Apache Zookeeper for high availability and fault tolerance.
-- Containerized independent microservices using Docker, streamlining the deployment process and ensuring consistent environments across different system stages.
+<p align="center">
+  <br>
+  <a href="https://sathindudezoysa.github.io/portfolio/#projects">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
+  </a>
+</p>
 
-#### 🔒 Rahasak: End-to-End Encrypted Messaging Platform
-- **Tools**: Java, Asymmetric Encryption (RSA)
-- Architected a secure messaging platform with a novel physical key exchange protocol allowing users to share public keys offline, enhancing privacy.
-- Implemented real-time message routing between users, showcasing an understanding of backend data flow and network communication.
-
-#### ⚙️ TestLang++: The Expressive Test Generation DSL
-- **Tools**: Flex (Lex), Bison (Yacc), C, Java, JUnit 5
-- Built a custom Domain-Specific Language (DSL) designed to make backend testing fast, readable, and highly maintainable. 
-- The compiler parses `.test` files and translates them into runnable JUnit 5 Java test classes.
-- Built for speed and flexibility, the compiler core relies on Flex and Bison, with intermediate code generation handled in C.
-
---- -->
+---
 
 ### 📈 GitHub Stats
 
