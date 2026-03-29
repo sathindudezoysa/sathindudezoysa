@@ -33,7 +33,7 @@ Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a st
   </a>
 </p>
 
----
+<!-- ---
 
 ### 🚀 Projects
 
@@ -58,19 +58,19 @@ Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a st
 - The compiler parses `.test` files and translates them into runnable JUnit 5 Java test classes.
 - Built for speed and flexibility, the compiler core relies on Flex and Bison, with intermediate code generation handled in C.
 
----
+--- -->
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathindudezoysa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sathindudezoysa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathindudezoysa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathindudezoysa&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 <p align="center"><i>Constantly learning and building high-performance, reliable systems.</i></p>
