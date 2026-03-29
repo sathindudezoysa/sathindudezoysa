@@ -1,52 +1,76 @@
-# ✨ Sathindu Dhanushka 
+<h1 align="center">Hi 👋, I'm Sathindu Dhanushka De Zoysa</h1>
+<h3 align="center">Computer Science Undergrad @ SLIIT | Actively Seeking Tech Internships</h3>
 
-**`Fellow  Developer and Researcher`**
-
-I am a student who has a strong passion for research new technologies. I enjoy creating innovative solutions using those thechnologies. All my projects are bult from scratch, from having the idea and developing and all the way to solving the problem.
-
-#### Find my Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/sathindu-dhanushka-de-zoysa-686b43267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathindu-dhanushka-de-zoysa-686b43267" height="30" width="40" /></a>
-<!-- <a href="https://www.instagram.com/sathindu_dhanushka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathindu" height="30" width="40" /></a>
-</p> -->
+<p align="center">
+  <a href="mailto:sathindu.d.zoysa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+94766542451">
+    <img src="https://img.shields.io/badge/Mobile-%2B94%2076%20654%202451-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile" />
+  </a>
+  <a href="https://linkedin.com/in/sathindu-dhanushka-de-zoysa-686b43267" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+### 👨‍💻 About Me
 
-<br />
+Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a strong passion for software engineering, cloud technologies, and building reliable systems. **Currently seeking a Tech Internship** to apply my skills in a real-world, fast-paced environment.
+- 💻 **Development & Infrastructure:** Experienced in programming (Java, Python, C, C#) and cloud/DevOps tooling (AWS, Azure, Docker, CI/CD).
+- 🚀 **Goals:** Eager to tackle complex problems, contribute to impactful projects, and learn from experienced engineers while bringing a self-motivated, collaborative attitude.
+- 🎓 **Education:** Currently pursuing a BSc (Hons) in Computer Science at Sri Lanka Institute of Information Technology (SLIIT).
 
-#
+---
 
+### 🛠️ Skills & Technologies
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathindudezoysa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sathindudezoysa" /></p> -->
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathindudezoysa&&theme=tokyonight" alt="sathindudezoysa" /></p> -->
+<p align="center">
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,bash,spring,react,nextjs,dotnet,mysql,firebase,azure,aws,docker,kubernetes,linux,githubactions&theme=dark" alt="Skills" />
+  </a>
+</p>
 
+---
 
-<!-- **sathindudezoysa/sathindudezoysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
 
-Here are some ideas to get you started:
+#### ☁️ Restroplate: Cloud Native Deployment & CI/CD Automation
+- **Tools**: Azure, GitHub Actions, .NET, C#, Jira
+- Engineered an automated CI/CD pipeline using GitHub Actions to streamline the continuous integration and deployment of the application directly to the Azure cloud.
+- Utilized Jira for issue tracking and agile project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+#### 🗄️ SentinelStore: Fault-Tolerant Distributed Storage System
+- **Tools**: Java, Docker, Bash, Apache Zookeeper, Microservice Architecture
+- Designed a distributed storage system that replicates data across multiple nodes ensuring crash recovery and load balancing using Apache Zookeeper for high availability and fault tolerance.
+- Containerized independent microservices using Docker, streamlining the deployment process and ensuring consistent environments across different system stages.
 
+#### 🔒 Rahasak: End-to-End Encrypted Messaging Platform
+- **Tools**: Java, Asymmetric Encryption (RSA)
+- Architected a secure messaging platform with a novel physical key exchange protocol allowing users to share public keys offline, enhancing privacy.
+- Implemented real-time message routing between users, showcasing an understanding of backend data flow and network communication.
+
+#### ⚙️ TestLang++: The Expressive Test Generation DSL
+- **Tools**: Flex (Lex), Bison (Yacc), C, Java, JUnit 5
+- Built a custom Domain-Specific Language (DSL) designed to make backend testing fast, readable, and highly maintainable. 
+- The compiler parses `.test` files and translates them into runnable JUnit 5 Java test classes.
+- Built for speed and flexibility, the compiler core relies on Flex and Bison, with intermediate code generation handled in C.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathindudezoysa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathindudezoysa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathindudezoysa&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+<p align="center"><i>Constantly learning and building high-performance, reliable systems.</i></p>
