@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathindu Dhanushka De Zoysa</h1>
-<h3 align="center">Computer Science Undergrad @ SLIIT | Actively Seeking Tech Internships</h3>
+<h3 align="center">Computer Science Undergrad @ SLIIT </h3>
 
 <p align="center">
   <a href="mailto:sathindu.d.zoysa@gmail.com">
@@ -17,7 +17,8 @@
 
 ### 👨‍💻 About Me
 
-Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a strong passion for software engineering, cloud technologies, and building reliable systems. **Currently seeking a Tech Internship** to apply my skills in a real-world, fast-paced environment.
+Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a strong passion for software engineering, cloud technologies, and building reliable systems.
+
 - 💻 **Development & Infrastructure:** Experienced in programming (Java, Python, C, C#) and cloud/DevOps tooling (AWS, Azure, Docker, CI/CD).
 - 🚀 **Goals:** Eager to tackle complex problems, contribute to impactful projects, and learn from experienced engineers while bringing a self-motivated, collaborative attitude.
 - 🎓 **Education:** Currently pursuing a BSc (Hons) in Computer Science at Sri Lanka Institute of Information Technology (SLIIT).
@@ -61,4 +62,5 @@ I enjoy tackling complex engineering challenges! From **fault-tolerant distribut
 </p> -->
 
 ---
+
 <p align="center"><i>Constantly learning and building high-performance, reliable systems.</i></p>
