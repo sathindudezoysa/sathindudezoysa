@@ -15,17 +15,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a strong passion for software engineering, cloud technologies, and building reliable systems.
 
-- 💻 **Development & Infrastructure:** Experienced in programming (Java, Python, C, C#) and cloud/DevOps tooling (AWS, Azure, Docker, CI/CD).
-- 🚀 **Goals:** Eager to tackle complex problems, contribute to impactful projects, and learn from experienced engineers while bringing a self-motivated, collaborative attitude.
-- 🎓 **Education:** Currently pursuing a BSc (Hons) in Computer Science at Sri Lanka Institute of Information Technology (SLIIT).
+- **Development & Infrastructure:** Experienced in programming (Java, Python, C, C#) and cloud/DevOps tooling (AWS, Azure, Docker, CI/CD).
+- **Goals:** Eager to tackle complex problems, contribute to impactful projects, and learn from experienced engineers while bringing a self-motivated, collaborative attitude.
+- **Education:** Currently pursuing a BSc (Hons) in Computer Science at Sri Lanka Institute of Information Technology (SLIIT).
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 <p align="center">
   <br>
@@ -36,7 +36,7 @@ Motivated 3rd-year Computer Science undergraduate (GPA: **3.87/4.00**) with a st
 
 ---
 
-### 🚀 Projects
+### Projects
 
 I enjoy tackling complex engineering challenges! From **fault-tolerant distributed systems** and **secure messaging platforms** to **custom compilers** and **cloud-native applications**.
 
@@ -49,7 +49,7 @@ I enjoy tackling complex engineering challenges! From **fault-tolerant distribut
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=sathindudezoysa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
